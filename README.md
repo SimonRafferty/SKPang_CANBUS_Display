@@ -7,6 +7,9 @@ or
 
 https://copperhilltech.com/teensy-4-0-classic-can-can-fd-board-with-480x320-3-5-touch-lcd/
 
+<img src="https://github.com/SimonRafferty/SKPang_CANBUS_Display/blob/main/image.png" width="50%" height="50%">
+
+
 I'd bought one of these & found that the example files linked didn't work (for me).  So, here is an example, using the Teensy FLEXCAN library, which does!
 I built this for my Polaris General, which I've converted to Electric.
 
