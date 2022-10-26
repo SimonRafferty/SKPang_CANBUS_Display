@@ -2,7 +2,9 @@
 Simple example of a CANBUS display based on SKPang / Copperhill board
 
 https://www.skpang.co.uk/products/teensy-4-0-classic-can-can-fd-board-with-480x320-3-5-touch-lcd
+
 or
+
 https://copperhilltech.com/teensy-4-0-classic-can-can-fd-board-with-480x320-3-5-touch-lcd/
 
 I'd bought one of these & found that the example files linked didn't work (for me).  So, here is an example, using the Teensy FLEXCAN library, which does!
